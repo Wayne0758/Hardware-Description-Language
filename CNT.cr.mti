@@ -1,0 +1,15 @@
+F:/HDL/Cnt100.v {1 {vlog -work work F:/HDL/Cnt100.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Cnt100
+
+Top level modules:
+	Cnt100
+
+} {} {}} F:/HDL/Cnt100_Test.v {1 {vlog -work work F:/HDL/Cnt100_Test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Cnt100_Test
+
+Top level modules:
+	Cnt100_Test
+
+} {} {}}
